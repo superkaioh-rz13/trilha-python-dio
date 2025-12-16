@@ -1,0 +1,6 @@
+print(1+11+1000)
+print(1.5)
+print(True)
+print(False)
+print('zuera')
+print(1)
